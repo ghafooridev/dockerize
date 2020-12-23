@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>this project has been created for deployment</p>
+        <p>New Version</p>
       </header>
     </div>
   );
